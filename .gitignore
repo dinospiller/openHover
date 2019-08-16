@@ -1,3 +1,6 @@
+# mac-osX indexing files
+*.DS_Store*
+
 # Prerequisites
 *.d
 

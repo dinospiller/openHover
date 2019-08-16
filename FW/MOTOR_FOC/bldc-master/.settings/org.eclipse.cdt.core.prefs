@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.619316772/PATH/delimiter=\:
+environment/project/0.619316772/PATH/operation=replace
+environment/project/0.619316772/PATH/value=${PATH}
+environment/project/0.619316772/PWD/delimiter=\:
+environment/project/0.619316772/PWD/operation=replace
+environment/project/0.619316772/PWD/value=/Users/mac_daino/Dropbox/projects/openHover/FW/MOTOR_FOC/bldc-master/
+environment/project/0.619316772/append=true
+environment/project/0.619316772/appendContributed=true
